@@ -1,9 +1,13 @@
-# Calculadora de Somatórias UFSC
+# Calculadora de Somatórias 
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/LMangrich/ts-somatoria-frontend)  
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://lmangrich.github.io/ts-somatoria-frontend/)
 
-Uma aplicação frontend em **TypeScript + React + Vite** para calcular pontuações de questões de somatória da UFSC.  
+
+Utilize o site clicando em: [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://lmangrich.github.io/ts-somatoria-frontend/) 
+
+--- 
+
+Uma aplicação frontend em **TypeScript + React + Vite** para calcular pontuações de questões de somatória.  
 
 O usuário insere sua soma e a soma correta do gabarito, seleciona a sequência de números, e a aplicação calcula a pontuação detalhada, mostrando quais números foram corretos, incorretos ou não selecionados.  
 
