@@ -1,7 +1,7 @@
 import { ScoringInput, ScoringResult } from "../types/scoringTypes";
 
 export async function calculateScore(input: ScoringInput): Promise<ScoringResult> {
-    const response = await fetch('https://ts-somatoria-backend.onrender.com/calculate', {
+    const response = await fetch('https://ts-somatoria-backend.onrender.com/score', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify(input)
