@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    // Output
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    // Language & Module
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "jsx": "react-jsx",
+
+    // Type checking
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+    
+    // Outras opções possíveis do base
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src", "vite.config.ts"]
+}
