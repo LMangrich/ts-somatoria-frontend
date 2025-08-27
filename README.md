@@ -5,6 +5,8 @@
 
 Utilize o site clicando em: [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://lmangrich.github.io/ts-somatoria-frontend/) 
 
+**Como o backend está hospedado no "Render", após 15 minutos de não uso, fica em estado inativo. Para voltar à atividade, demora cerca de 1 minuto. Então é só esperar um pouco caso vá usar após um certo período de tempo!**
+
 --- 
 
 Uma aplicação frontend em **TypeScript + React + Vite** para calcular pontuações de questões de somatória.  
